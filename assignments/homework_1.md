@@ -4,7 +4,7 @@
 Opened: Thursday, 10 October 2024, 12:00 AM
 Due: Wednesday, 13 November 2024, 11:59 PM
 
-Please read the following article: Yves Gingras (2020), ‘The transformation of the scientific paper: From knowledge to accounting unit’, in M. Biagioli & A. Lippman (eds.), Gaming the Metrics, Cambridge : MIT Press, 43-55.
+Please read the following article: [Yves Gingras (2020), ‘The transformation of the scientific paper: From knowledge to accounting unit’, in M. Biagioli & A. Lippman (eds.), Gaming the Metrics, Cambridge : MIT Press, 43-55.](assignments/literature/Gingras 2020 The transformation of the scientific paper.pdf)
 Then submit a short essay (1 page max.) in which you comment on Gingras' article.
 
 Your essay should:
