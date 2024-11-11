@@ -1,7 +1,7 @@
 # UTT9101
 Initiation to Scientific Writing
 
-* Course description: https://ois2.taltech.ee/uusois/aine/UTT9101
+* Course description: https://ois2.taltech.ee/uusois/subject/UTT9101
 * Course page: https://moodle.taltech.ee/course/view.php?id=32310
 
 ---
