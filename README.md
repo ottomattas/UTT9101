@@ -1,4 +1,4 @@
-# UTT9101
+# UTT9102
 Initiation to Scientific Writing
 
 * Course description: https://ois2.taltech.ee/uusois/subject/UTT9102
